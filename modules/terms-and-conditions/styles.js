@@ -8,8 +8,6 @@ export const styles = StyleSheet.create({
     padding: 20,
     alignItems: 'flex-end',
     flexDirection: 'row',
-    justifyContent:'center',
-
   },
   text: {
     color: '#000000',
@@ -17,7 +15,6 @@ export const styles = StyleSheet.create({
     width: '100%',
   },
   icon: { width: 18, height: 16 },
-  touchableopacity: { padding: 5 },
   scrollview: { flex: 1, padding: 20 },
-  header: { color: '#fff', fontSize: 16, },
+  header: { color: '#fff', fontSize: 16 },
 });
